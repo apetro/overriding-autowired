@@ -1,7 +1,7 @@
 What is this?
 =============
 
-This is a bare-bones Spring 4.1 example demonstrating how @Autowired works when the dependency is explicitly wired.
+This is a bare-bones Spring 4 example demonstrating how @Autowired works when the dependency is explicitly wired.
 
 How does @Autowired work when the dependency is explicitly wired, anyway?
 =========
